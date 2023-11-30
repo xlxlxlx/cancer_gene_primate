@@ -21,10 +21,10 @@ The genome accession numbers for the 32 primate genomes and 4 non-primate specie
 - Homo_sapiens_GRCh38_cds_list.csv   
 The full human gene list extracted from human CDS sequence obtained from Ensembl [^3]. Note there are duplicated gene names.
 
-- cgc724_large_clades.csv
+- cgc724_large_clades.csv   
 The full table of human cancer genes that are completely absent from at least one large primate clade (size 5-8).
 
-- cgc724_small_clades
+- cgc724_small_clades.csv   
 The full table of human cancer genes that are completely absent from at least one small primate clade (size 2-3).
 
 - fasta2genelist.py    
@@ -52,13 +52,13 @@ The database table creation file when a new database table is needed
 ### experiment_distribution
 Scripts under this folder is for the distribution of human cancer and random genes among primate and non-primate species.
 
-- 1_binary_tables.py
+- 1_binary_tables.py   
 Convert the result table of experiment_detection into binary distribution tables.
 
-- 2_existence_in_clades
+- 2_existence_in_clades   
 Match genes to their existing and absent primate clades.
 
-- 2_nonprimate_pattern_matching
+- 2_nonprimate_pattern_matching   
 Match genes to their existing patterns in 4 non-primate species.
 
 ### experiment_primate_emergence
