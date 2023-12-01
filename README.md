@@ -55,10 +55,10 @@ Scripts under this folder is for the distribution of human cancer and random gen
 - 1_binary_tables.py   
 Convert the result table of experiment_detection into binary distribution tables.
 
-- 2_existence_in_clades   
+- 2_existence_in_clades.py   
 Match genes to their existing and absent primate clades.
 
-- 2_nonprimate_pattern_matching   
+- 2_nonprimate_pattern_matching.py   
 Match genes to their existing patterns in 4 non-primate species.
 
 ### experiment_primate_emergence
