@@ -41,6 +41,5 @@ x_axis_list2 = list(np.linspace(0, 71, 142+1))
 for (tickvalue, ticklbl) in zip(x_axis_list2, ax.xaxis.get_ticklabels()):
     ticklbl.set_color('blue' if tickvalue % 5 == 0 else 'black')
 
-ax2.invert_xaxis()
 plt.savefig('output_plot.png',  bbox_inches='tight')
 plt.show()
