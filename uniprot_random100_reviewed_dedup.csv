@@ -40,7 +40,6 @@ DIRAS1,O95057,reviewed,DIRA1_HUMAN,GTP-binding protein Di-Ras1 (Distinct subgrou
 TENM4,Q6N022,reviewed,TEN4_HUMAN,Teneurin-4 (Ten-4) (Protein Odd Oz/ten-m homolog 4) (Tenascin-M4) (Ten-m4) (Teneurin transmembrane protein 4),TENM4 KIAA1302 ODZ4 TNM4,Homo sapiens (Human),2769
 DPYSL3,Q14195,reviewed,DPYL3_HUMAN,Dihydropyrimidinase-related protein 3 (DRP-3) (Collapsin response mediator protein 4) (CRMP-4) (Unc-33-like phosphoprotein 1) (ULIP-1),DPYSL3 CRMP4 DRP3 ULIP ULIP1,Homo sapiens (Human),570
 ARC,O60936,reviewed,NOL3_HUMAN,Nucleolar protein 3 (Apoptosis repressor with CARD) (Muscle-enriched cytoplasmic protein) (Myp) (Nucleolar protein of 30 kDa) (Nop30),NOL3 ARC NOP,Homo sapiens (Human),208
-PRR5,P85299,reviewed,PRR5_HUMAN,Proline-rich protein 5 (Protein observed with Rictor-1) (Protor-1),PRR5 PROTOR1 PP610,Homo sapiens (Human),388
 CPNE3,O75131,reviewed,CPNE3_HUMAN,Copine-3 (Copine III),CPNE3 CPN3 KIAA0636,Homo sapiens (Human),537
 ZDHHC21,Q8IVQ6,reviewed,ZDH21_HUMAN,Palmitoyltransferase ZDHHC21 (EC 2.3.1.225) (DHHC domain-containing cysteine-rich protein 21) (DHHC-21) (Zinc finger DHHC domain-containing protein 21),ZDHHC21,Homo sapiens (Human),265
 SPDYE1,Q8NFV5,reviewed,SPDE1_HUMAN,Speedy protein E1 (Williams-Beuren syndrome chromosomal region 19 protein),SPDYE1 WBSCR19,Homo sapiens (Human),336
@@ -92,10 +91,11 @@ TDP2,O95551,reviewed,TYDP2_HUMAN,Tyrosyl-DNA phosphodiesterase 2 (Tyr-DNA phosph
 CYTH4,Q9UIA0,reviewed,CYH4_HUMAN,"Cytohesin-4 (PH, SEC7 and coiled-coil domain-containing protein 4)",CYTH4 CYT4 PSCD4,Homo sapiens (Human),394
 HSPB7,Q9UBY9,reviewed,HSPB7_HUMAN,Heat shock protein beta-7 (HspB7) (Cardiovascular heat shock protein) (cvHsp),HSPB7 CVHSP,Homo sapiens (Human),170
 OOSP2,Q86WS3,reviewed,OOSP2_HUMAN,Oocyte-secreted protein 2 (Placenta-specific 1-like protein) (Protein TMEM122),OOSP2 PLAC1L TMEM122,Homo sapiens (Human),158
-HPDL,Q96IR7,reviewed,HPDL_HUMAN,4-hydroxyphenylpyruvate dioxygenase-like protein (HPD-like protein) (EC 1.13.-.-) (Glyoxalase domain-containing protein 1),HPDL GLOXD1,Homo sapiens (Human),371
 CT55,Q8WUE5,reviewed,CT55_HUMAN,Cancer/testis antigen 55 (Tumor antigen BJ-HCC-20),CT55 CXorf48,Homo sapiens (Human),264
 MIGA2,Q7L4E1,reviewed,MIGA2_HUMAN,Mitoguardin 2 (Protein FAM73B),MIGA2 C9orf54 FAM73B PSEC0112,Homo sapiens (Human),593
 CPEB2,Q7Z5Q1,reviewed,CPEB2_HUMAN,Cytoplasmic polyadenylation element-binding protein 2 (CPE-BP2) (CPE-binding protein 2) (hCPEB-2),CPEB2,Homo sapiens (Human),589
 QSER1,Q2KHR3,reviewed,QSER1_HUMAN,Glutamine and serine-rich protein 1,QSER1,Homo sapiens (Human),1735
 ZNF195,O14628,reviewed,ZN195_HUMAN,Zinc finger protein 195,ZNF195 ZNFP104,Homo sapiens (Human),629
 TTC39B,Q5VTQ0,reviewed,TT39B_HUMAN,Tetratricopeptide repeat protein 39B (TPR repeat protein 39B),TTC39B C9orf52,Homo sapiens (Human),682
+CYP3A43,Q9HB55,reviewed,CP343_HUMAN,Cytochrome P450 3A43 (EC 1.14.14.1),CYP3A43,Homo sapiens (Human),503
+FUZ,Q9BT04,reviewed,FUZZY_HUMAN,Protein fuzzy homolog,FUZ FY,Homo sapiens (Human),418
