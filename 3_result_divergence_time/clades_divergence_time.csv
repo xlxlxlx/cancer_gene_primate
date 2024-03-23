@@ -1,0 +1,29 @@
+divergence_time,range_start,range_end,left_ranch_first_species,#right_branch_species,#left_branch_species,name,rank,right_clade,left_clade
+69.2,61.9,71.1,Callithrix jacchus,25,1,Haplorrhini,suborder,"Callithrix jacchus, Aotus nancymaae, Saimiri boliviensis boliviensis, Cebus imitator, Cebus capucinus, Sapajus apella, Hylobates moloch, Nomascus leucogenys, Gorilla gorilla, Homo sapiens, Pan paniscus, Pan troglodytes, Pongo abelii, Chlorocebus sabaeus, Mandrillus leucophaeus, Cercocebus atys, Papio anubis, Theropithecus gelada, Macaca mulatta, Macaca fascicularis, Macaca nemestrina, Piliocolobus tephrosceles, Colobus angolensis palliatus, Trachypithecus francoisi, Rhinopithecus roxellana, Rhinopithecus bieti",Carlito syrichta
+59.3,55.1,62.1,Otolemur garnettii,1,4,Strepsirrhini,suborder,Otolemur garnettii,"Prolemur simus, Lemur catta, Propithecus coquereli, Microcebus murinus"
+42.9,40,44.2,Callithrix jacchus,5,20,Simiiformes,suborder,"Callithrix jacchus, Aotus nancymaae, Saimiri boliviensis boliviensis, Cebus capucinus, Cebus imitator, Sapajus apella","Hylobates moloch, Nomascus leucogenys, Gorilla gorilla, Homo sapiens, Pan paniscus, Pan troglodytes, Pongo abelii, Chlorocebus sabaeus, Mandrillus leucophaeus, Cercocebus atys, Papio anubis, Theropithecus gelada, Macaca mulatta, Macaca fascicularis, Macaca nemestrina, Piliocolobus tephrosceles, Colobus angolensis palliatus, Trachypithecus francoisi, Rhinopithecus roxellana, Rhinopithecus bieti"
+35.2,31.1,40.3,Prolemur simus,2,2,Lemuriformes,infraorder,"Prolemur simus, Lemur catta","Propithecus coquereli, Microcebus murinus"
+28.8,27,30.6,Hylobates moloch,7,13,Catarrhini,parvorder,"Hylobates moloch, Nomascus leucogenys, Gorilla gorilla, Homo sapiens, Pan paniscus, Pan troglodytes, Pongo abelii","Chlorocebus sabaeus, Mandrillus leucophaeus, Cercocebus atys, Papio anubis, Theropithecus gelada, Macaca mulatta, Macaca fascicularis, Macaca nemestrina, Piliocolobus tephrosceles, Colobus angolensis palliatus, Trachypithecus francoisi, Rhinopithecus roxellana, Rhinopithecus bieti"
+19.63,18.8,20.32,Hylobates moloch,2,5,Hominoidea,subfamily,"Hylobates moloch, Nomascus leucogenys","Gorilla gorilla, Homo sapiens, Pan paniscus, Pan troglodytes, Pongo abelii"
+18.3,17.45,20.5,Callithrix jacchus,2,3,,,"Callithrix jacchus, Aotus nancymaae","Saimiri boliviensis boliviensis, Cebus capucinus, Cebus imitator, Sapajus apella"
+17.94,16.8,19.8,Chlorocebus sabaeus,8,5,Cercopithecidae,family,"Chlorocebus sabaeus, Mandrillus leucophaeus, Cercocebus atys, Papio anubis, Theropithecus gelada, Macaca mulatta, Macaca fascicularis, Macaca nemestrina","Piliocolobus tephrosceles, Colobus angolensis palliatus, Trachypithecus francoisi, Rhinopithecus roxellana, Rhinopithecus bieti"
+17.65,16.3,19.3,Callithrix jacchus,1,1,,,Callithrix jacchus,Aotus nancymaae
+15.87,14.7,18,Saimiri boliviensis,1,2,,,Saimiri boliviensis boliviensis,"Cebus imitator, Cebus capucinus, Sapajus apella"
+15.2,14.5,16.3,Gorilla gorilla,4,1,Hominidae,family,"Gorilla gorilla, Homo sapiens, Pan paniscus, Pan troglodytes",Pongo abelii
+12.29,10.8,14.11,Piliocolobus tephrosceles,2,3,Colobinae,subfamily,"Piliocolobus tephrosceles, Colobus angolensis palliatus","Trachypithecus francoisi, Rhinopithecus roxellana, Rhinopithecus bieti"
+12.14,10.7,13.6,Chlorocebus sabaeus,1,7,Cercopithecinae,subfamily,Chlorocebus sabaeus,"Mandrillus leucophaeus, Cercocebus atys, Papio anubis, Theropithecus gelada, Macaca mulatta, Macaca fascicularis, Macaca nemestrina"
+10.45,8.7,11.05,Mandrillus leucophaeus,4,3,,,"Mandrillus leucophaeus, Cercocebus atys, Papio anubis, Theropithecus gelada","Macaca mulatta, Macaca fascicularis, Macaca nemestrina"
+10.21,8.3,11.32,Piliocolobus tephrosceles,1,1,,,Piliocolobus tephrosceles,Colobus angolensis palliatus
+9.96,8.13,14.8,Prolemur simus,1,1,,,Propithecus coquereli,Microcebus murinus
+8.67,8,9.16,Hylobates moloch,1,1,,,Hylobates moloch,Nomascus leucogenys
+8.6,8.25,9.3,Gorilla gorilla,1,3,Homininae,subfamily,Gorilla gorilla,"Homo sapiens, Pan paniscus, Pan troglodytes"
+7.67,5.5,10.44,Trachypithecus francoisi,1,2,,,Trachypithecus francoisi,"Rhinopithecus roxellana, Rhinopithecus bieti"
+7.41,6.5,11.74,Mandrillus leucophaeus,2,2,,,"Mandrillus leucophaeus, Cercocebus atys","Papio anubis, Theropithecus gelada"
+6.4,6.11,6.7,Homo sapiens,1,2,,,Homo sapiens,"Pan paniscus, Pan troglodytes"
+6.18,5.39,8.02,Cebus capucinus,1,1,Cebinae,subfamily,Cebus imitator,Cebus capucinus
+4.73,4,5.46,Mandrillus leucophaeus,1,1,,,Mandrillus leucophaeus,Cercocebus atys
+4.52,4.02,5.13,Papio anubis,1,1,,,Papio anubis,Theropithecus gelada
+4.5,3.93,5.54,Macaca mulatta,1,2,(Macaca),,Macaca mulatta,"Macaca fascicularis, Macaca nemestrina"
+3.18,2.4,5,Macaca mulatta,1,1,,,Macaca fascicularis,Macaca nemestrina
+2.4,2.18,2.97,Pan paniscus,1,1,Pan,genus,Pan paniscus,Pan troglodytes
+2.19,1.9,3.2,Rhinopithecus roxellana,1,1,(Rhinopithecus),,Rhinopithecus roxellana,Rhinopithecus bieti
