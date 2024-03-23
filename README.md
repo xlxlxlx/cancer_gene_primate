@@ -9,8 +9,8 @@ The genome accession numbers for the 32 primate genomes and 4 non-primate specie
 - uniprot_cgc.tsv   
 The UniProt ID mapping [^1] result for the original 733 cancer associated genes obtained from Cancer Gene Census [^2]. Note that this table contains both reviewed and unreviewed proteins. 
 
-- uniprot_cgc.tsv   
-The UniProt ID mapping [^1] result for the 727 cancer associated genes obtained from Cancer Gene Census [^2] with at least one "reviewed" protein. 
+- uniprot_cgc_reviewed_dedup.tsv   
+The 727 cancer genes analyzed in the paper. The UniProt ID mapping [^1] result for the 727 cancer associated genes obtained from Cancer Gene Census [^2] with at least one "reviewed" protein and deduped. 
 
 - uniprot_random100_reviewed_dedup.csv   
 A random set of 100 human genes and their corresponding proteins used in this study.
@@ -39,7 +39,7 @@ The full table of human cancer genes that are completely absent from at least on
 The scripts are labeled according to their order of execution. If two scripts share the same preceeding number, this indicates that there is no strict sequence for executing them.
 
 ### 0_blast_alignment
-Scripts and files under this folder is for human gene alignment to primate and nonprimate coding sequences.
+Scripts and files under this folder are for human gene alignment to primate and nonprimate coding sequences.
 
 - 1_tblastn_protein_cds.py   
 Align protein sequence to CDS sequence   
@@ -54,22 +54,22 @@ Summarize the aligning result into a gene x species matrix
 The database table creation files when a new database table is needed   
 
 ### 1_result_filter_map
-Inputs are outputs from 0_blast_alignment. The script maps protein to genes.   
+Inputs are outputs from 0_blast_alignment. The script maps proteins to genes.   
 
 - protein2gene_name.py   
-Map proteins to their gene names and filters results by a given gene list.   
+Map proteins to their gene names and filter results by a given gene list.   
 
 ### 2_result_distribution
 Inputs are outputs from 1_result_filter_map. The script generates the binary distribution of genes across species.   
 
 - values_to_binary.py   
-Map values to 0 or 1, separate the results into tables containing all 1s, all 0s, and the remianing.   
+Map values to 0 or 1, seperate the results into tables containing all 1s, all 0s, and the remaining.   
 
 ### 3_result_clades
 Inputs are outputs from 2_result_distribution. The script combines primate gene distribution results with nonprimate patterns.   
 
 - 1_clade_assigner.py   
-Identify genes that are absent from an entire primate clades.   
+Identify genes that are absent from an entire primate clade.   
 
 - 2_clades_cancer_info_expand.py   
 Expands the results from 1_clade_assigner.py with information obtained from Cancer Gene Census [^2].   
