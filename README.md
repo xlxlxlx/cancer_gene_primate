@@ -1,6 +1,6 @@
-# Concerning the Existence of Human Cancer Genes in Primate Species
+# Reflections on the Presence of Human Cancer Genes in Primate Genomes
 
-This is a repository storing data and scripts used in our manuscript titled "Concerning the Existence of Human Cancer Genes in Primate Species".
+This is a repository storing data and scripts used in our manuscript titled "Reflections on the Presence of Human Cancer Genes in Primate Genomes".
 
 ## Data files
 - genome_accession.xlsx    
